@@ -1,0 +1,146 @@
+
+header{
+    background-color: #1c2c34;
+    padding-bottom: 25px;
+
+}
+
+#logoimage{
+    height: 100px;
+    width: 100px
+}
+.topheader{
+    display: flex;
+    justify-content: space-between;
+   margin: 0px 128px 0px 128px;
+}
+
+.topheader ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.topheader ul li a {
+color: white
+}
+
+.midheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 128px 0px 128px;
+  
+}
+
+.divcont{ width: 200px;}
+
+#headermision p{
+color:white;
+flex-shrink: 1;
+}
+#headermision h2{
+    color:white;
+    }
+#headerimage{
+height: 150px;
+width: 450px;
+margin-left: 58px;
+}
+#headermision p{
+    color:white;
+  
+    }
+#headerbutton{  
+
+        color: white;
+        font-weight: 900;
+        background-color: #3d84f2;
+        border-radius:6%;
+        border-color:#3d84f2;
+        height: 32px;
+        width: 100px;
+        
+}
+
+
+.contenido h3{
+    font-size: 36px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.fotoscotenido{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+}
+
+.imgcont{
+
+height: 150px;
+width: 150px;
+border: solid;
+border-color: #3d84f2;
+border-radius: 8px;
+
+
+}
+    
+.grisbg{
+    background-color:#e5e7eb;
+padding: 26px 228px ;
+margin-bottom: 66px;
+
+}
+.grisbg p {
+    font-size: 36px;
+    font-family:  italic;
+    font-weight: lighter;
+    text-align: justify;
+    margin-bottom: 0;
+
+}
+.grisbg h3 {
+    margin-top: 0%;
+    font-size: 36px;
+    font-family:  italic;
+    font-weight: 800;
+    text-align: right;
+
+}
+
+footer{ display: flex;
+justify-content: center;}
+
+.rellenofooter{
+    padding: 0px 18px 0px 18px;
+    display: flex;
+width: 600px;
+
+background-color:#3d84f2;
+border-radius: 15px;
+align-items: center;
+}
+.rellenofooter h3{
+    margin-bottom: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.rellenofooter h4{
+    margin-top: 0%;
+    font-size: 18px;
+ color: white;
+ font-family: italic;
+ font-weight: lighter;
+}
+
+.btnftr{
+    padding-left: 16px;
+    background-color:#3d84f2;
+    color: white;
+    border:  2px solid white;
+    border-radius: 5px;
+    width: 100px;
+}
